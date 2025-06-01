@@ -77,7 +77,7 @@ assign g=~(alb);
 assign h=~(a^b);
 endmodule
 ```
-![image](https://github.com/user-attachments/assets/2154c6f1-f2d3-4be7-b4a8-a2b8c0c15d5b)
+
 
  **Developed by : N.Lakshanya**
  **Register Number: 212224230136**
