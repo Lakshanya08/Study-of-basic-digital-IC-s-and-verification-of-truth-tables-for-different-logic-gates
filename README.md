@@ -1,4 +1,4 @@
-### study-of-basic-gates
+rgtrh### study-of-basic-gates
 
 **AIM:** 
 
